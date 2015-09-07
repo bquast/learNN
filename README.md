@@ -2,6 +2,7 @@ learNN
 -------------
 [![CRAN Version](http://www.r-pkg.org/badges/version/learNN)](http://cran.r-project.org/package=learNN)
 [![Travis-CI Build Status](https://travis-ci.org/bquast/learNN.svg?branch=master)](https://travis-ci.org/bquast/learNN)
+[![Coverage Status](https://img.shields.io/coveralls/bquast/learNN.svg)](https://coveralls.io/r/bquast/learNN?branch=master)
 
 Implementations of several basic neural network concepts in R, as based on posts on http://qua.st/.
 
