@@ -4,12 +4,33 @@
 \alias{learn_bp}
 \title{Learn Back Propagation}
 \usage{
-learn_bp()
+learn_bp(X, y)
+}
+\arguments{
+\item{X}{input data}
+
+\item{y}{output data}
 }
 \description{
 Learn Back Propagation
 }
-\seealso{
-http://qua.st/handcoding-neural-network/
+\examples{
+# create data
+X = matrix(c(0,0,1,
+             0,1,1,
+             1,0,1,
+             1,1,1), nrow=4, byrow=TRUE)
+
+y = matrix(c(0,
+             1,
+             1,
+             0),
+             nrow=4)
+
+# run full function
+learn_bp(X, y)
+}
+\references{
+\url{http://qua.st/handcoding-neural-network/}
 }
 
