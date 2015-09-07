@@ -2,6 +2,6 @@ Package: learNN
 Title: Examples of neural networks
 Version: 0.0.0.9000
 Authors@R: person("Bastiaan", "Quast", email = "bquast@gmail.com", role = c("aut", "cre"))
-Description: tbd
+Description: Implementations of several basic neural network concepts in R, as based on posts on \url{http://qua.st/}.
 Depends: R (>= 3.2.1)
 License: GPL-3
