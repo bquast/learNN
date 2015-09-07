@@ -73,6 +73,7 @@ learn_bp <- function(X, y) {
 #' @param X input data
 #' @param y output data
 #' @export
+#' @references \url{http://qua.st/handcoding-neural-network/}
 #' @examples
 #' # construct new data
 #' X = matrix(c(0,0,1,0,1,1,1,0,1,1,1,1), nrow=4, byrow=TRUE)

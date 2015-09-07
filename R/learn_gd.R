@@ -6,6 +6,7 @@
 #' @param alphas vector of alphas to use
 #' @param hiddenSize size of the hidden layer
 #' @export
+#' @references \url{http://qua.st/handcoding-gradient-descent/}
 #' @examples
 #' # input dataset
 #' X = matrix(c(0,0,1,
@@ -88,6 +89,7 @@ learn_gd <- function(X, y, alphas, hiddenSize) {
 #' @param alpha alpha to be used
 #' @param hidden_dim dimension of the hidden layer
 #' @export
+#' @references \url{http://qua.st/handcoding-gradient-descent/}
 #' @examples
 #' # create new data
 #' alpha = 0.5

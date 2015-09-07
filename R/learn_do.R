@@ -7,6 +7,7 @@
 #' @param dropout_percent percentage to be used for the dropout
 #' @param do_dropout should dropout be used
 #' @export
+#' @references \url{http://qua.st/handcoding-dropout/}
 #' @examples
 #' # construct data
 #' X = matrix(c(0,0,1,0,1,1,1,0,1,1,1,1), nrow=4, byrow=TRUE)
