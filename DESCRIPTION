@@ -5,3 +5,4 @@ Authors@R: person("Bastiaan", "Quast", email = "bquast@gmail.com", role = c("aut
 Description: Implementations of several basic neural network concepts in R, as based on posts on \url{http://qua.st/}.
 Depends: R (>= 3.2.1)
 License: GPL-3
+Suggests: testthat
