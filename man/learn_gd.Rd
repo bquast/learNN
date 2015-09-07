@@ -40,5 +40,7 @@ learn_gd(X, y, alphas, hiddenSize)
 }
 \references{
 \url{http://qua.st/handcoding-gradient-descent/}
+
+\url{http://qua.st/handcoding-gradient-descent/}
 }
 

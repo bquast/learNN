@@ -28,4 +28,7 @@ y = matrix(c(0,1,1,0),nrow=4)
 # run 13 lines function
 learn_gd13(X, y, alpha, hidden_dim)
 }
+\references{
+\url{http://qua.st/handcoding-gradient-descent/}
+}
 

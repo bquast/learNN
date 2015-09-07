@@ -40,4 +40,7 @@ learn_do15(X, y, alpha, hidden_dim, dropout_percent, TRUE)
 synapse_0
 synapse_1
 }
+\references{
+\url{http://qua.st/handcoding-dropout/}
+}
 

@@ -26,4 +26,7 @@ learn_bp11(X, y)
 syn0
 syn1
 }
+\references{
+\url{http://qua.st/handcoding-neural-network/}
+}
 
