@@ -1,4 +1,4 @@
-Package: learnn
+Package: learNN
 Title: Examples of neural networks
 Version: 0.0.0.9000
 Authors@R: person("Bastiaan", "Quast", email = "bquast@gmail.com", role = c("aut", "cre"))
