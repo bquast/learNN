@@ -4,4 +4,8 @@
 \name{learnn}
 \alias{learnn}
 \alias{learnn-package}
+\title{Learn Neural Networks}
+\description{
+Learn Neural Networks
+}
 
