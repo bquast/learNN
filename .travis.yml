@@ -14,7 +14,7 @@ notifications:
     on_failure: change
 
 r_packages:
-  - jimhester/covr
+  - covr
 
 after_success:
   - Rscript -e 'library(covr);coveralls()'
