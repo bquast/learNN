@@ -3,6 +3,7 @@
 #' @references \url{http://qua.st/handcoding-neural-network/}
 #' @param X input data
 #' @param y output data
+#' @importFrom stats runif
 #' @export
 #' @examples
 #' # create data

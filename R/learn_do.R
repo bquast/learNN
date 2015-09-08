@@ -6,6 +6,8 @@
 #' @param hidden_dim dimension of the hidden layer
 #' @param dropout_percent percentage to be used for the dropout
 #' @param do_dropout should dropout be used
+#' @importFrom stats rbinom
+#' @importFrom stats runif
 #' @export
 #' @references \url{http://qua.st/handcoding-dropout/}
 #' @examples
