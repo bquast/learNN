@@ -1,6 +1,5 @@
 #' Learn Gradient Descent
 #'
-#' @references \url{http://qua.st/handcoding-gradient-descent/}
 #' @param X input data
 #' @param y output data
 #' @param alphas vector of alphas to use
@@ -21,8 +20,10 @@
 #'              0), nrow=4)
 #'
 #' # set parameters
-#' alphas = c(0.001,0.01,0.1,1,10,100,1000)
+#' alphas = c(0.1, 1, 10)
 #' hiddenSize = 32
+#' # also try using:
+#' # alphas = c(0.001,0.01,0.1,1,10,100,1000)
 #'
 #' # run gradient descent function
 #' learn_gd(X, y, alphas, hiddenSize)
