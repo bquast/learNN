@@ -90,6 +90,8 @@ learn_gd <- function(X, y, alpha, hiddenSize) {
 #' @importFrom stats runif
 #' @export
 #' @references \url{http://qua.st/handcoding-gradient-descent/}
+#' \url{http://iamtrask.github.io/2015/07/27/python-network-part2/}
+#' @seealso \code{\link{learn_gd}}
 #' @examples
 #' # create new data
 #' alpha = 0.5
