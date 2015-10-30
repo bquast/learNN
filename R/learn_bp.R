@@ -73,6 +73,7 @@ learn_bp <- function(X, y) {
 
 #' @name learn_bp11
 #' @title Learn Back Propagation in 11 lines
+#' @description An 11 line version of the backpropagation function.
 #' @param X input data
 #' @param y output data
 #' @export

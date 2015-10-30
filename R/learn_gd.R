@@ -83,6 +83,7 @@ learn_gd <- function(X, y, alpha, hiddenSize) {
 
 #' @name learn_gd13
 #' @title Learn Gradient Descent in 13 lines
+#' @description A 13 line version of the gradient descent function.
 #' @param X input data
 #' @param y output data
 #' @param alpha alpha to be used

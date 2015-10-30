@@ -87,6 +87,7 @@ learn_do <- function(X, y, alpha, hidden_dim, dropout_percent, do_dropout=TRUE) 
 
 #' @name learn_do15
 #' @title Learn Dropout in 15 lines
+#' @description A 15 line version of the dropout function.
 #' @param X input data
 #' @param y output data
 #' @param alpha proportion of gradient descent
