@@ -4,8 +4,8 @@
 #' @param X input data
 #' @param y output data
 #' @importFrom stats runif
-#' @references \url{http://qua.st/handcoding-neural-network/}
-#' \url{http://iamtrask.github.io/2015/07/12/basic-python-network/}
+#' @references \url{https://qua.st/handcoding-neural-network/}
+#' \url{https://iamtrask.github.io/2015/07/12/basic-python-network/}
 #' @export
 #' @examples
 #' # create data

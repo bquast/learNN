@@ -35,4 +35,3 @@ learn_gd13(X, y, alpha, hidden_dim)
 \seealso{
 \code{\link{learn_gd}}
 }
-

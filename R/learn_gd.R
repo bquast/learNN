@@ -6,8 +6,8 @@
 #' @param hiddenSize size of the hidden layer
 #' @importFrom stats runif
 #' @export
-#' @references \url{http://qua.st/handcoding-gradient-descent/}
-#' \url{http://iamtrask.github.io/2015/07/27/python-network-part2/}
+#' @references \url{https://qua.st/handcoding-gradient-descent/}
+#' \url{https://iamtrask.github.io/2015/07/27/python-network-part2/}
 #' @examples
 #' # input dataset
 #' X = matrix(c(0,0,1,

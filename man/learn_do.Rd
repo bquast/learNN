@@ -41,7 +41,6 @@ synapse_0
 synapse_1
 }
 \references{
-\url{http://qua.st/handcoding-dropout/}
-\url{http://iamtrask.github.io/2015/07/28/dropout/}
+\url{https://qua.st/handcoding-dropout/}
+\url{https://iamtrask.github.io/2015/07/28/dropout/}
 }
-

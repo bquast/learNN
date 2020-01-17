@@ -33,4 +33,3 @@ syn1
 \seealso{
 \code{\link{learn_bp}}
 }
-

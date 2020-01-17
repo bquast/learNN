@@ -9,8 +9,8 @@
 #' @importFrom stats rbinom
 #' @importFrom stats runif
 #' @export
-#' @references \url{http://qua.st/handcoding-dropout/}
-#' \url{http://iamtrask.github.io/2015/07/28/dropout/}
+#' @references \url{https://qua.st/handcoding-dropout/}
+#' \url{https://iamtrask.github.io/2015/07/28/dropout/}
 #' @examples
 #' # construct data
 #' X = matrix(c(0,0,1,0,1,1,1,0,1,1,1,1), nrow=4, byrow=TRUE)

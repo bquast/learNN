@@ -47,4 +47,3 @@ synapse_1
 \seealso{
 \code{\link{learn_do}}
 }
-

@@ -3,13 +3,11 @@
 \docType{package}
 \name{learnn}
 \alias{learnn}
-\alias{learnn-package}
 \title{Learn Neural Networks}
 \description{
 Implementations of several basic neural network concepts in R,
-as based on posts on \url{http://qua.st/}.
+as based on posts on \url{https://qua.st/}.
 }
 \author{
 Bastiaan Quast \email{bquast@gmail.com}
 }
-

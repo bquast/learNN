@@ -44,7 +44,6 @@ hiddenSize = 32
 learn_gd(X, y, alpha, hiddenSize)
 }
 \references{
-\url{http://qua.st/handcoding-gradient-descent/}
-\url{http://iamtrask.github.io/2015/07/27/python-network-part2/}
+\url{https://qua.st/handcoding-gradient-descent/}
+\url{https://iamtrask.github.io/2015/07/27/python-network-part2/}
 }
-
