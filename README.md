@@ -1,10 +1,11 @@
 learNN
 -------------
-[![License](http://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
-[![CRAN Version](http://www.r-pkg.org/badges/version/learNN)](http://cran.r-project.org/package=learNN)
-[![RStudio Cloud Downloads](http://cranlogs.r-pkg.org/badges/learNN?color=brightgreen)](http://cran.rstudio.com/package=learNN)
-[![Travis-CI Build Status](https://travis-ci.org/bquast/learNN.svg?branch=master)](https://travis-ci.org/bquast/learNN)
-[![Coverage Status](https://img.shields.io/coveralls/bquast/learNN.svg)](https://coveralls.io/r/bquast/learNN?branch=master)
+[![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![CRAN Version](https://www.r-pkg.org/badges/version/learNN)](https://cran.r-project.org/package=learNN)
+[![R build status](https://github.com/bquast/learNN/workflows/R-CMD-check/badge.svg)](https://github.com/bquast/learNN/actions?workflow=R-CMD-check)
+[![Coverage status](https://codecov.io/gh/bquast/learNN/branch/master/graph/badge.svg?token=deFpCmSnfW)](https://app.codecov.io/gh/bquast/learNN)
+[![Total RStudio Cloud Downloads](https://cranlogs.r-pkg.org/badges/grand-total/learNN?color=brightgreen)](https://cran.r-project.org/package=learNN)
+[![Montly RStudio Cloud Downloads](https://cranlogs.r-pkg.org/badges/learNN?color=brightgreen)](https://cran.r-project.org/package=learNN)
 
 Implementations of several basic neural network concepts in R, as based on posts on http://qua.st/.
 
@@ -20,8 +21,8 @@ install.packages("learNN")
 The development version, to be used **at your peril**, can be installed using:
 
 ```r
-if (!require('devtools')) install.packages('devtools')
-devtools::install_github("bquast/learNN")
+if (!require('remotes')) install.packages('remotes')
+remotes::install_github("bquast/learNN")
 ```
 
 
@@ -59,7 +60,7 @@ news(package="learNN")
 
 There is also a blog post with information on my [personal website](http://qua.st/).
 
-http://qua.st/learNN/
+https://qua.st/learNN/
  
 
 Development
